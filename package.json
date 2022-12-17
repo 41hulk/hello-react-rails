@@ -1,0 +1,45 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/41hulk/hello-react-rails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/41hulk/hello-react-rails/issues"
+  },
+  "homepage": "https://github.com/41hulk/hello-react-rails#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.5.0",
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/plugin-syntax-jsx": "^7.18.6",
+    "@babel/preset-react": "^7.18.6",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
