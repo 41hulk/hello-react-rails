@@ -1,4 +1,4 @@
-<a name="readme-top">HELLO-REACT-RAILS</a>
+<a name="readme-top">HELLO-REACT-RAILS APP</a>
 
 <div align="center">
 
